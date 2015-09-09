@@ -1,0 +1,13 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
+E:\Progra 3\Guia 1\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+E:\Progra 3\Guia 1\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+E:\Progra 3\Guia 1\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb
+E:\Progra 3\Guia 1\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+E:\Progra 3\Guia 1\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+E:\Progra 3\Guia 1\Analisis de Resultados\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+E:\Progra 3\Guia 1\Analisis de Resultados\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+E:\Progra 3\Guia 1\Analisis de Resultados\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb

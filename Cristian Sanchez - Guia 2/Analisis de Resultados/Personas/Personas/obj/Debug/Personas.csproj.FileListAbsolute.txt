@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Personas\Personas\bin\Debug\Personas.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Personas\Personas\bin\Debug\Personas.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Personas\Personas\bin\Debug\Personas.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Personas\Personas\obj\Debug\Personas.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Personas\Personas\obj\Debug\Personas.pdb

@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Tabla\Tabla\bin\Debug\Tabla.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Tabla\Tabla\bin\Debug\Tabla.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Tabla\Tabla\bin\Debug\Tabla.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Tabla\Tabla\obj\Debug\Tabla.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Tabla\Tabla\obj\Debug\Tabla.pdb

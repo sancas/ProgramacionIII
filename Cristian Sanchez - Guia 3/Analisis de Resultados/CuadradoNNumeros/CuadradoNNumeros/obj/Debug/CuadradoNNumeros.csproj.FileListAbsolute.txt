@@ -1,0 +1,8 @@
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\bin\Debug\CuadradoNNumeros.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\obj\Debug\CuadradoNNumeros.Form1.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\obj\Debug\CuadradoNNumeros.Properties.Resources.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\obj\Debug\CuadradoNNumeros.csproj.GenerateResource.Cache
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\bin\Debug\CuadradoNNumeros.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\bin\Debug\CuadradoNNumeros.pdb
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\obj\Debug\CuadradoNNumeros.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\CuadradoNNumeros\CuadradoNNumeros\obj\Debug\CuadradoNNumeros.pdb

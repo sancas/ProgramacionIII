@@ -1,0 +1,6 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.csprojResolveAssemblyReference.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.pdb

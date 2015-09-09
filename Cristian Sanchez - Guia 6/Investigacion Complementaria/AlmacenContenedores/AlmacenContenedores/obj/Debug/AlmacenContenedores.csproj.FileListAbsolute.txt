@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\AlmacenContenedores\AlmacenContenedores\bin\Debug\AlmacenContenedores.exe.config
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\AlmacenContenedores\AlmacenContenedores\bin\Debug\AlmacenContenedores.exe
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\AlmacenContenedores\AlmacenContenedores\bin\Debug\AlmacenContenedores.pdb
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\AlmacenContenedores\AlmacenContenedores\obj\Debug\AlmacenContenedores.exe
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\AlmacenContenedores\AlmacenContenedores\obj\Debug\AlmacenContenedores.pdb
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\AlmacenContenedores\AlmacenContenedores\obj\Debug\AlmacenContenedores.csprojResolveAssemblyReference.cache

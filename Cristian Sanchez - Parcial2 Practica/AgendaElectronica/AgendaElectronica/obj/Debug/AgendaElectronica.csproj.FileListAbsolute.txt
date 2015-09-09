@@ -1,0 +1,6 @@
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.exe.config
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.csprojResolveAssemblyReference.cache
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.exe
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\AgendaElectronica\AgendaElectronica\bin\Debug\AgendaElectronica.pdb
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.exe
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\AgendaElectronica\AgendaElectronica\obj\Debug\AgendaElectronica.pdb

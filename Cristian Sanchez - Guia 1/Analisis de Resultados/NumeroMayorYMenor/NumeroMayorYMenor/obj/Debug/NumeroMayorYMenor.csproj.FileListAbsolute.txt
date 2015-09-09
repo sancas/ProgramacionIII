@@ -1,0 +1,5 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\NumeroMayorYMenor\bin\Debug\NumeroMayorYMenor.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\NumeroMayorYMenor\bin\Debug\NumeroMayorYMenor.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NumeroMayorYMenor\bin\Debug\NumeroMayorYMenor.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\NumeroMayorYMenor\obj\Debug\NumeroMayorYMenor.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NumeroMayorYMenor\obj\Debug\NumeroMayorYMenor.pdb

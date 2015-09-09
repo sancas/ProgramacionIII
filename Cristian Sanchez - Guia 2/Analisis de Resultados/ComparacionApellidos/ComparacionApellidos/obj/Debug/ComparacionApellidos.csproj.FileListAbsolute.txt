@@ -1,0 +1,5 @@
+c:\users\usuario\documents\visual studio 2012\Projects\ComparacionApellidos\ComparacionApellidos\bin\Debug\ComparacionApellidos.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\ComparacionApellidos\ComparacionApellidos\bin\Debug\ComparacionApellidos.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ComparacionApellidos\ComparacionApellidos\bin\Debug\ComparacionApellidos.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\ComparacionApellidos\ComparacionApellidos\obj\Debug\ComparacionApellidos.exe
+c:\users\usuario\documents\visual studio 2012\Projects\ComparacionApellidos\ComparacionApellidos\obj\Debug\ComparacionApellidos.pdb

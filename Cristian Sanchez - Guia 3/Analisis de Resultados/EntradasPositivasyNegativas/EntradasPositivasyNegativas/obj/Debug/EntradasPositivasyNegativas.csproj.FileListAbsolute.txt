@@ -1,0 +1,8 @@
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\bin\Debug\EntradasPositivasyNegativas.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\bin\Debug\EntradasPositivasyNegativas.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\bin\Debug\EntradasPositivasyNegativas.pdb
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\obj\Debug\EntradasPositivasyNegativas.Form1.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\obj\Debug\EntradasPositivasyNegativas.Properties.Resources.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\obj\Debug\EntradasPositivasyNegativas.csproj.GenerateResource.Cache
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\obj\Debug\EntradasPositivasyNegativas.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\EntradasPositivasyNegativas\EntradasPositivasyNegativas\obj\Debug\EntradasPositivasyNegativas.pdb

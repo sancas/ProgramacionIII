@@ -1,0 +1,10 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\miEjemplo\bin\Debug\miEjemplo.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\miEjemplo\bin\Debug\miEjemplo.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\miEjemplo\bin\Debug\miEjemplo.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\miEjemplo\obj\Debug\miEjemplo.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\miEjemplo\obj\Debug\miEjemplo.pdb
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Guia 10\Ejemplos\miEjemplo\miEjemplo\bin\Debug\miEjemplo.exe.config
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Guia 10\Ejemplos\miEjemplo\miEjemplo\obj\Debug\miEjemplo.exe
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Guia 10\Ejemplos\miEjemplo\miEjemplo\obj\Debug\miEjemplo.pdb
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Guia 10\Ejemplos\miEjemplo\miEjemplo\bin\Debug\miEjemplo.exe
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Guia 10\Ejemplos\miEjemplo\miEjemplo\bin\Debug\miEjemplo.pdb

@@ -1,0 +1,7 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\Ordenar\bin\Debug\Ordenar.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 4\Ordenar\Ordenar\bin\Debug\Ordenar.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 4\Ordenar\Ordenar\obj\Debug\Ordenar.csprojResolveAssemblyReference.cache
+E:\Progra 3\Cristian Sanchez - Guia 4\Ordenar\Ordenar\bin\Debug\Ordenar.exe
+E:\Progra 3\Cristian Sanchez - Guia 4\Ordenar\Ordenar\bin\Debug\Ordenar.pdb
+E:\Progra 3\Cristian Sanchez - Guia 4\Ordenar\Ordenar\obj\Debug\Ordenar.exe
+E:\Progra 3\Cristian Sanchez - Guia 4\Ordenar\Ordenar\obj\Debug\Ordenar.pdb

@@ -1,0 +1,8 @@
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\bin\Debug\LugaresTuristicos.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\bin\Debug\LugaresTuristicos.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\bin\Debug\LugaresTuristicos.pdb
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\obj\Debug\LugaresTuristicos.Form1.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\obj\Debug\LugaresTuristicos.Properties.Resources.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\obj\Debug\LugaresTuristicos.csproj.GenerateResource.Cache
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\obj\Debug\LugaresTuristicos.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\LugaresTuristicos\LugaresTuristicos\obj\Debug\LugaresTuristicos.pdb

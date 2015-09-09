@@ -1,0 +1,6 @@
+c:\users\usuario\documents\visual studio 2012\Projects\MiProgramaSelectivo\MiProgramaSelectivo\bin\Debug\MiProgramaSelectivo.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\MiProgramaSelectivo\MiProgramaSelectivo\bin\Debug\MiProgramaSelectivo.exe
+c:\users\usuario\documents\visual studio 2012\Projects\MiProgramaSelectivo\MiProgramaSelectivo\bin\Debug\MiProgramaSelectivo.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\MiProgramaSelectivo\MiProgramaSelectivo\obj\Debug\MiProgramaSelectivo.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\MiProgramaSelectivo\MiProgramaSelectivo\obj\Debug\MiProgramaSelectivo.exe
+c:\users\usuario\documents\visual studio 2012\Projects\MiProgramaSelectivo\MiProgramaSelectivo\obj\Debug\MiProgramaSelectivo.pdb

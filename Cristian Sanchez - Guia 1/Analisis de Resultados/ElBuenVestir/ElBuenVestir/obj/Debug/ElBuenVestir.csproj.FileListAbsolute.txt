@@ -1,0 +1,9 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\ElBuenVestir\bin\Debug\ElBuenVestir.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\ElBuenVestir\bin\Debug\ElBuenVestir.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\ElBuenVestir\bin\Debug\ElBuenVestir.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\ElBuenVestir\obj\Debug\ElBuenVestir.csprojResolveAssemblyReference.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\ElBuenVestir\obj\Debug\ElBuenVestir.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\ElBuenVestir\obj\Debug\ElBuenVestir.pdb
+E:\Progra 3\Guia 1\Analisis de Resultados\ElBuenVestir\ElBuenVestir\bin\Debug\ElBuenVestir.exe.config
+E:\Progra 3\Guia 1\Analisis de Resultados\ElBuenVestir\ElBuenVestir\obj\Debug\ElBuenVestir.exe
+E:\Progra 3\Guia 1\Analisis de Resultados\ElBuenVestir\ElBuenVestir\obj\Debug\ElBuenVestir.pdb

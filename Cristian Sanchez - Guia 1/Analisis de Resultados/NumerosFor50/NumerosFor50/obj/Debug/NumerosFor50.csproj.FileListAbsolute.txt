@@ -1,0 +1,5 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosFor50\bin\Debug\NumerosFor50.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosFor50\bin\Debug\NumerosFor50.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosFor50\bin\Debug\NumerosFor50.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosFor50\obj\Debug\NumerosFor50.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NumerosFor50\obj\Debug\NumerosFor50.pdb

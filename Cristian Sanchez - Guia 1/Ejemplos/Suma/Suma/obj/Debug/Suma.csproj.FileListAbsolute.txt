@@ -1,0 +1,5 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\Suma\bin\Debug\Suma.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\Suma\bin\Debug\Suma.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Suma\bin\Debug\Suma.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\Suma\obj\Debug\Suma.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Suma\obj\Debug\Suma.pdb

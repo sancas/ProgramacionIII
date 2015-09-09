@@ -1,0 +1,9 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\NotacionPolacaInversa\bin\Debug\NotacionPolacaInversa.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\NotacionPolacaInversa\bin\Debug\NotacionPolacaInversa.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NotacionPolacaInversa\bin\Debug\NotacionPolacaInversa.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\NotacionPolacaInversa\obj\Debug\NotacionPolacaInversa.csprojResolveAssemblyReference.cache
+C:\Users\usuario\AppData\Local\Temporary Projects\NotacionPolacaInversa\obj\Debug\NotacionPolacaInversa.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\NotacionPolacaInversa\obj\Debug\NotacionPolacaInversa.pdb
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Teoria\NotacionPolacaInversa\NotacionPolacaInversa\bin\Debug\NotacionPolacaInversa.exe.config
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Teoria\NotacionPolacaInversa\NotacionPolacaInversa\obj\Debug\NotacionPolacaInversa.exe
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Teoria\NotacionPolacaInversa\NotacionPolacaInversa\obj\Debug\NotacionPolacaInversa.pdb

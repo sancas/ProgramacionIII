@@ -1,0 +1,11 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\OrdanamientoBurbuja\bin\Debug\OrdanamientoBurbuja.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\OrdanamientoBurbuja\bin\Debug\OrdanamientoBurbuja.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\OrdanamientoBurbuja\bin\Debug\OrdanamientoBurbuja.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\OrdanamientoBurbuja\obj\Debug\OrdanamientoBurbuja.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\OrdanamientoBurbuja\obj\Debug\OrdanamientoBurbuja.pdb
+E:\Progra 3\Cristian Sanchez - Guia 4\OrdanamientoBurbuja\OrdanamientoBurbuja\bin\Debug\OrdanamientoBurbuja.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 4\OrdanamientoBurbuja\OrdanamientoBurbuja\obj\Debug\OrdanamientoBurbuja.exe
+E:\Progra 3\Cristian Sanchez - Guia 4\OrdanamientoBurbuja\OrdanamientoBurbuja\obj\Debug\OrdanamientoBurbuja.pdb
+E:\Progra 3\Cristian Sanchez - Guia 4\OrdanamientoBurbuja\OrdanamientoBurbuja\bin\Debug\OrdanamientoBurbuja.exe
+E:\Progra 3\Cristian Sanchez - Guia 4\OrdanamientoBurbuja\OrdanamientoBurbuja\bin\Debug\OrdanamientoBurbuja.pdb
+E:\Progra 3\Cristian Sanchez - Guia 4\OrdanamientoBurbuja\OrdanamientoBurbuja\obj\Debug\OrdanamientoBurbuja.csprojResolveAssemblyReference.cache

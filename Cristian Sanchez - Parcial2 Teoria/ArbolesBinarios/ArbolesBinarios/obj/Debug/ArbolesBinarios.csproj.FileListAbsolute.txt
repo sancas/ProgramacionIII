@@ -1,0 +1,9 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\ArbolesBinarios\bin\Debug\ArbolesBinarios.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\ArbolesBinarios\bin\Debug\ArbolesBinarios.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\ArbolesBinarios\bin\Debug\ArbolesBinarios.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\ArbolesBinarios\obj\Debug\ArbolesBinarios.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\ArbolesBinarios\obj\Debug\ArbolesBinarios.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\ArbolesBinarios\obj\Debug\ArbolesBinarios.csprojResolveAssemblyReference.cache
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Teoria\ArbolesBinarios\ArbolesBinarios\bin\Debug\ArbolesBinarios.exe.config
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Teoria\ArbolesBinarios\ArbolesBinarios\obj\Debug\ArbolesBinarios.exe
+F:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Teoria\ArbolesBinarios\ArbolesBinarios\obj\Debug\ArbolesBinarios.pdb

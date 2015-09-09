@@ -1,0 +1,9 @@
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\MiPrimerPrograma.pdb
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.csprojResolveAssemblyReference.cache
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.Form1.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.Properties.Resources.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.csproj.GenerateResource.Cache
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\MiPrimerPrograma.pdb

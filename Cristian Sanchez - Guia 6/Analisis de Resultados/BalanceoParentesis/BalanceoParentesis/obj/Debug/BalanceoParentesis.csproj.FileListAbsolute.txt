@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\BalanceoParentesis\BalanceoParentesis\bin\Debug\BalanceoParentesis.exe.config
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\BalanceoParentesis\BalanceoParentesis\bin\Debug\BalanceoParentesis.exe
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\BalanceoParentesis\BalanceoParentesis\bin\Debug\BalanceoParentesis.pdb
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\BalanceoParentesis\BalanceoParentesis\obj\Debug\BalanceoParentesis.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\BalanceoParentesis\BalanceoParentesis\obj\Debug\BalanceoParentesis.exe
+C:\Users\usuario\Desktop\Guia 6\Analisis de Resultados\SilverlightApplication1\BalanceoParentesis\BalanceoParentesis\obj\Debug\BalanceoParentesis.pdb

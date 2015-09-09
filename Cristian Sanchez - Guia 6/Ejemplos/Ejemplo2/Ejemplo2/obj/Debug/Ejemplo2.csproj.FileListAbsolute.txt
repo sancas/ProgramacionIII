@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\Guia 6\Ejemplos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\usuario\Desktop\Guia 6\Ejemplos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\usuario\Desktop\Guia 6\Ejemplos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\usuario\Desktop\Guia 6\Ejemplos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\usuario\Desktop\Guia 6\Ejemplos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb

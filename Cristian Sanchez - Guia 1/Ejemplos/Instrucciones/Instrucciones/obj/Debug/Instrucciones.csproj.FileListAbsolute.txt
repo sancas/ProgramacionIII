@@ -1,0 +1,5 @@
+C:\Users\usuario\AppData\Local\Temporary Projects\Instrucciones\bin\Debug\Instrucciones.exe.config
+C:\Users\usuario\AppData\Local\Temporary Projects\Instrucciones\bin\Debug\Instrucciones.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Instrucciones\bin\Debug\Instrucciones.pdb
+C:\Users\usuario\AppData\Local\Temporary Projects\Instrucciones\obj\Debug\Instrucciones.exe
+C:\Users\usuario\AppData\Local\Temporary Projects\Instrucciones\obj\Debug\Instrucciones.pdb

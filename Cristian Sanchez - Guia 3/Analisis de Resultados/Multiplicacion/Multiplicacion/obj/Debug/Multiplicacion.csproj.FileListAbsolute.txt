@@ -1,0 +1,8 @@
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.exe.config
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\bin\Debug\Multiplicacion.pdb
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.Form1.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.Properties.Resources.resources
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.csproj.GenerateResource.Cache
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.exe
+E:\Progra 3\Cristian Sanchez - Guia 3\Multiplicacion\Multiplicacion\obj\Debug\Multiplicacion.pdb

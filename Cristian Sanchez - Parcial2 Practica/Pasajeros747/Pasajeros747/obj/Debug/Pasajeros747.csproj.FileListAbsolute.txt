@@ -1,0 +1,6 @@
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\Pasajeros747\Pasajeros747\bin\Debug\Pasajeros747.exe.config
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\Pasajeros747\Pasajeros747\bin\Debug\Pasajeros747.exe
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\Pasajeros747\Pasajeros747\bin\Debug\Pasajeros747.pdb
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\Pasajeros747\Pasajeros747\obj\Debug\Pasajeros747.csprojResolveAssemblyReference.cache
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\Pasajeros747\Pasajeros747\obj\Debug\Pasajeros747.exe
+E:\Documents\Universidad\Progra 3\Cristian Sanchez - Parcial2 Practica\Pasajeros747\Pasajeros747\obj\Debug\Pasajeros747.pdb
